@@ -1,8 +1,8 @@
 ### Привет, Я ✨Revalto✨ 👋
 
-## Я разработчик и ученик
+## Обо мне
 
-- 🌱 В данный момент я обучаюсь 🤣
+- 🌱 В данный момент я обучаюсь 
 - 👯 Я хочу сотрудничать с другими разработчиками
 - 🥅 Цель на 2020: повысить свой опыт
 - ⚡ Интересный факт: сам не знаю 🤣
@@ -11,9 +11,9 @@
 
 👥 **Связь**
 
-[<img align="left" alt="Revalto | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Revalto | vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/vk.svg" />][vk]
 [<img align="left" alt="Revalto | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Revalto | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Revalto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
